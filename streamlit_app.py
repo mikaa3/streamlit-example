@@ -1,3 +1,5 @@
+import streamlit as st
+
 st.write('Loadin capacity of ice')
 st.write('Loading capacity (kg) = 5 * thickness (cm) ^2')
 
